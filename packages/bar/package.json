@@ -1,6 +1,6 @@
 {
   "name": "bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "hulongchao <hulc_it@163.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "foo": "^1.0.0",
+    "foo": "^1.0.1",
     "lodash": "^4.17.21"
   }
 }
