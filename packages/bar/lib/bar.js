@@ -5,7 +5,7 @@ module.exports = bar;
 
 function bar() {
     // TODO
-    console.log('bar')
+    console.log('bar2')
     foo()
 }
 

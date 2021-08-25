@@ -1,6 +1,6 @@
 {
-  "name": "foo",
-  "version": "1.0.1",
+  "name": "@hulc/foo",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "hulongchao <hulc_it@163.com>",
   "homepage": "",
@@ -22,5 +22,6 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "moment": "^2.29.1"
-  }
+  },
+  "gitHead": "22bc350bc70e0b53d86c045b88cf82eab9559176"
 }

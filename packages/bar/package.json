@@ -1,6 +1,6 @@
 {
-  "name": "bar",
-  "version": "1.0.1",
+  "name": "@hulc/bar",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "hulongchao <hulc_it@163.com>",
   "homepage": "",
@@ -23,5 +23,6 @@
     "express": "^4.17.1",
     "foo": "^1.0.1",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "22bc350bc70e0b53d86c045b88cf82eab9559176"
 }
